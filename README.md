@@ -164,5 +164,3 @@ A possible production implementation would add an authenticated API, server-enfo
 ## Author
 
 **Built by [@Xeyzen7959](https://github.com/Xeyzen7959).**
-
-No license has been assigned to this project.
