@@ -1,0 +1,30 @@
+{
+  "name": "relaydesk",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "check": "tsc -b",
+    "test": "node --experimental-strip-types --test tests/*.test.ts",
+    "test:ui": "node tests/run-ui.mjs"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "lucide-react": "^0.468.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.5",
+    "jsdom": "^26.0.0",
+    "esbuild": "^0.25.0"
+  },
+  "engines": {
+    "node": ">=22.6.0"
+  }
+}
