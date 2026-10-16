@@ -1,6 +1,6 @@
 # RelayDesk
 
-### Thoughtful support, connected
+### Thoughtful support, connected.
 
 RelayDesk is an interactive customer-support portfolio demo for **Northstar Commerce**, a fictional ecommerce software company. Explore a shared team inbox, a customer chat with transparent simulated AI, and an editable knowledge base. Every workflow runs in your browser with fictional data—no backend, API keys, external AI calls, or real authentication.
 
